@@ -8,8 +8,12 @@ public class EncapsulationDemo {
 		os.setAge(21);
 		os.setName("Yashwanth");
 		os.setSerialNum(122);
+
 		
 		System.out.println(os.getAge()+"\n"+ os.getName() +"\n" + os.getSerialNum());
+
+		System.out.println(os.getAge() + "\n" + os.getName() + "\n" + os.getSerialNum());
+
 	}
 
 }

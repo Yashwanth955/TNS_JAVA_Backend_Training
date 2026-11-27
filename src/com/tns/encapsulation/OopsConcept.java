@@ -3,6 +3,7 @@ package com.tns.encapsulation;
 public class OopsConcept {
 	private int SerialNum;
 	private String name;
+
 	public int getSerialNum() {
 		return SerialNum;
 	}
@@ -24,3 +25,6 @@ public class OopsConcept {
 	private int age;
 }
 
+
+
+	
